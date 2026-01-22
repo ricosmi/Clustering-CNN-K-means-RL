@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61e51849-8aff-4d74-be8b-ef5513e0379e" name="Changes" comment="" />
+    <list default="true" id="61e51849-8aff-4d74-be8b-ef5513e0379e" name="Changes" comment="Embeddings">
+      <change afterPath="$PROJECT_DIR$/kmeans_silhouette.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rl_k_selection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ricosmi"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ricosmi/Clustering-CNN-K-means-RL.git",
+    "accountId": "021255dd-9e74-4446-9cb7-ccd61d4192e8"
+  }
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -36,6 +52,8 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.extract_embeddings.executor": "Run",
+    "Python.kmeans_silhouette.executor": "Run",
+    "Python.rl_k_selection.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -69,14 +87,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1769070748212</updated>
-      <workItem from="1769070749237" duration="1321000" />
+      <workItem from="1769070749237" duration="4743000" />
     </task>
+    <task id="LOCAL-00001" summary="Embeddings">
+      <option name="closed" value="true" />
+      <created>1769075766340</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1769075766340</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Embeddings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Embeddings" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Clustering_cu_CNN__K_means_si_RL$extract_embeddings.coverage" NAME="extract_embeddings Coverage Results" MODIFIED="1769071469180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Clustering_cu_CNN__K_means_si_RL$extract_embeddings.coverage" NAME="extract_embeddings Coverage Results" MODIFIED="1769075639420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Clustering_cu_CNN__K_means_si_RL$kmeans_silhouette.coverage" NAME="kmeans_silhouette Coverage Results" MODIFIED="1769076956474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Clustering_cu_CNN__K_means_si_RL$rl_k_selection.coverage" NAME="rl_k_selection Coverage Results" MODIFIED="1769077075184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
